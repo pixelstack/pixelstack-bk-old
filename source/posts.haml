@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+.page-title
+  %h1 What's Been Happening
+
+%ul.posts
+{% for post in site.posts %}
+  %li.posts__item
+    .posts__item-header
+      %h2
+        %a{href: "{{ site.baseurl }}{{ post.url }}"} {{ post.title }}
+    .posts__item-meta
+      Published {{ post.date | date_to_string }}
+    .posts__item-content
+      {{ post.excerpt }}...
+    .posts__item-read-more
+      %a{href: "{{ site.baseurl }}{{ post.url }}"} Read more...
+{% endfor %}

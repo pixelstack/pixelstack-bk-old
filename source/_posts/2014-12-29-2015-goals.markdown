@@ -1,0 +1,66 @@
+---
+layout: post
+title: 2015 Goals
+date: '2014-12-29 02:25:44'
+excerpt: "Yup, 2015 goals for everything web dev, I needed to get this down in some form so I can review later in the year to see if anything has changed or not, should be interesting as I have a lot planned"
+---
+
+2015 is fast approaching, with only a few days left before another amazing year starts.
+
+I have a few goals for 2015, so I thought why not publish them. I can then reflect on those goals at the end of the year and see what has changed and what stayed true (if any).
+
+Currently I have a handful of goals, these being:
+
+- Have an automated deployment strategy/system
+- Move to a multi front-end API back-end workflow
+- Implement docker (at least in development)
+- Push my side projects and make them profitable
+
+## Automated Deployment Strategy/System
+Currently, setting up a new server or updating an existing one with security releases, while not hard, is quite time consuming.
+One server here, another one there, yea thats not to bad but when it jumps above 10 it really starts to eat into your day.
+
+Take for example when heart bleed came out, having to patch a couple of dozen servers really wasted half a day.
+If this process was automated in some way, that would make it a lot easier.
+
+After playing around with [Chef](https://www.chef.io/chef/) for a while, I think I am going to stick with [Ansible](http://www.ansible.com/). 
+Ansible is so easy to read and even easier to learn. I am currently playing around with a Rails setup by testing it with a vagrant box, loving it.
+
+This may change slightly if [docker](http://docker.com/) can be put into production easier than I think, but I still think docker will need some use of ansible.
+
+## Multi Front-end, API Back-end
+As more and more of the application I am working on are becoming quite interactive and requiring a large amount of javascript on the front-end, it only seems right to extract the front-end from the back-end and start developing API's first then the front-end to hook into it.
+
+There has been a move to breaking out parts of applications to this model recently and it just works. Lightning fast responses is another huge one, hitting a json api is so quick.
+Further to that, its easy to plug in to another front-end, whether that be a mobile app or some other device, clean and simple.
+
+I really like this approach as it keeps a clean separation of code and also reduces the knowledge required for any other developers that may come on to the project. Having a purely front-end based dev come onto a project and have to learn rails or node is asking a bit much (although, I am sure they would find it fun).
+
+## Implement Docker
+Docker! Docker excites me quite a lot, the speed, security and just pure awesomesauce about it. The more and more I learn about docker, the more I want to have that for everything, at least in my development environment.
+
+There are times where I want to just make my machine a clean slate, not having to install tons of libraries on it just to do some dev work, then find one library version is needed for one project and a different one on another, or just clogging things up, writing crazy readmes etc. Docker solves all those problems.
+
+I think docker, or if not docker, something along those lines is the future of development. Coming onto a new project, you just pull the repo, run a command and boom the full dev environment is setup and running, all isolated from the machine you are working on, no conflicts, life is grand.
+
+So I would really love to have that happening in 2015, I think its just about a silver bullet when it comes to the development environment and potentially in production.
+
+## Side Projects
+Currently my side projects are gaining more and more interest, but I need to start pushing them more so I can get them making a profit, to grow them into something even more awesome and help other peoples lives.
+
+Currently [devbase.io](https://devbase.io/) is my everyday companion, storing all the details I need for client websites, domains, hosting, etc, it just solves a huge problem for me storing and sharing that information with anyone else that I may have on my team.
+
+One thing that devbase is lacking is a decent marketing site. At the moment it is absolutely horrid, it really does not look very nice, tells nothing about how it can help you.
+I really need to work on that straight away. I want to have a marketing site I am proud of and that represents what devbase is.
+
+As for my latest side project, [Email Setup Buddy](http://emailsetupbuddy.com/) I would like to try and get more people using it as well as finish up some of the last guides.
+The guides are ready to be put in there, but I need to stop being lazy, get in there and smash it out. If I set aside a day, I could easily get it done.
+
+It does need some work on the admin ui as well as the actual guide pages, but I won't be touching that until I get some more feedback.
+
+I also have a couple of other side projects I want to release, but I think I just need to sit back and really focus on devbase and Email Setup Buddy right now, get them to where I am fairly happy, then I can move onto those other side projects.
+
+## Summary
+Anyway, thats my 2015 Goals, Have an automated deployment strategy/system, Move to a multi front-end API back-end workflow, Implement docker (at least in development) and Push my side projects and make them profitable.
+
+Here is hoping to a fun and successful 2015.

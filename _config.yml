@@ -1,0 +1,18 @@
+gems: [bourbon, neat]
+
+# Structure configuration
+source: source
+destination: build
+
+assets:
+  cachebust: soft
+
+# Site settings
+title: Pixelstack.com
+description: The Pixelstack Blog
+
+# Name of project on Github
+baseurl: ""
+
+# Build settings
+markdown: kramdown

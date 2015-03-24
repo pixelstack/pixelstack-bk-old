@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pixelstack.com</title>
+    <description>The Pixelstack Blog</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 22 Mar 2015 21:02:23 +1100</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2015 21:02:23 +1100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Coder Catchup Episode 1</title>
+        <description>&lt;p&gt;I have recently started a podcast, &lt;a href=&quot;http://codercatchup.com/&quot;&gt;Coder Catchup&lt;/a&gt;, mainly to have a fireside style chat with other web developers/builders/makers/whatever you want to call yourself, but will also be doing some solo episodes.&lt;/p&gt;
+
+&lt;p&gt;I have released 2 episodes, one of them being a brief intro, and the &lt;a href=&quot;http://codercatchup.com/episodes/7227-episode-001-solo-railsdiff-org&quot;&gt;first official episode&lt;/a&gt; on &lt;a href=&quot;http://railsdiff.org&quot;&gt;railsdiff.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Check it out!&lt;/p&gt;
+
+&lt;iframe frameborder=&quot;0&quot; height=&quot;36px&quot; scrolling=&quot;no&quot; seamless=&quot;&quot; src=&quot;https://simplecast.fm/e/7227?style=light&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 29 Jan 2015 22:11:16 +1100</pubDate>
+        <link>/2015/01/29/coder-catchup-episode-1.html</link>
+        <guid isPermaLink="true">/2015/01/29/coder-catchup-episode-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>devbase.io Update</title>
+        <description>&lt;p&gt;Hi there!&lt;/p&gt;
+
+&lt;p&gt;I thought I should put out an update on &lt;a href=&quot;http://devbase.io/&quot;&gt;devbase.io&lt;/a&gt;, my side project for storing/accessing/sharing client information for website logins, hosting accounts, domains, servers etc.&lt;/p&gt;
+
+&lt;p&gt;I have started working on redesiging the marketing site, while there is still a lot more work needed to it (looks horrible at the moment), but it is getting there with the limited free time I have (I know, that really isn’t an excuse)&lt;/p&gt;
+
+&lt;p&gt;It really is hard designing for yourself, no matter what I do it comes out looking horrible so I scrap it. I am sure I am not the only one.
+Anyway, I have been redesigning small parts of the site and so far I have updated the header and parts of the homepage. Soon I will complete the homepage and then the subsequent pages.&lt;/p&gt;
+
+&lt;p&gt;I have added in a status page as well, just incase anything happens. Checkout &lt;a href=&quot;http://status.devbase.io/&quot;&gt;status.devbase.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am also about to start working on some new additions to &lt;a href=&quot;http://devbase.io/&quot;&gt;devbase&lt;/a&gt;, which are on my roadmap, these being:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Onboarding experience (currently none, I know I know)&lt;/li&gt;
+  &lt;li&gt;Issue tracking&lt;/li&gt;
+  &lt;li&gt;Subscription service billing (Xero)&lt;/li&gt;
+  &lt;li&gt;Better dashboard&lt;/li&gt;
+  &lt;li&gt;Quick search&lt;/li&gt;
+  &lt;li&gt;Swipe gestures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Those are the ones on my immediate roadmap. I am still taking feedback on devbase, but so far it has all been positive.&lt;/p&gt;
+
+&lt;p&gt;That is it for now. If you haven’t tried &lt;a href=&quot;http://devbase.io/&quot;&gt;devbase.io&lt;/a&gt; yet, &lt;a href=&quot;https://devbase.io/signup&quot;&gt;sign up now and give it a try&lt;/a&gt;, it won’t cost you a cent.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jan 2015 21:25:09 +1100</pubDate>
+        <link>/2015/01/03/devbase-io-update.html</link>
+        <guid isPermaLink="true">/2015/01/03/devbase-io-update.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Being a Generalist is Important</title>
+        <description>&lt;p&gt;It may be a bold statement to make in the rapidly evolving web development ecosystem, but I think it still holds true for the most part.
+Being a generalist is becoming harder and harder to achieve, but it sure is worth it.&lt;/p&gt;
+
+&lt;p&gt;What is a generalist you may ask? That is someone who can touch all parts of a website or web application. For example, you can do work on the design (mockups, HTML), implement server side code, fix/implement server setups, etc.&lt;/p&gt;
+
+&lt;p&gt;With how the web is evolving, more and more people are specializing in a particular area, for example front-end.
+I am not saying that you should not specialize in an area, but that you should be experimenting, touching as many parts as possible to give you a better understanding of what is possible and what is not.&lt;/p&gt;
+
+&lt;p&gt;Why would you want to know about how this works, or how that works does not only give you a better understanding, it also can fill your desire to learn more, which is something I cannot get rid of, nor do I want to. I am sure that other developers experience this too.
+I mean, why else do we have side projects, or if you work full time for an agency that you do work on the side. It is this yearning for experimenting, learning and honing your craft.&lt;/p&gt;
+
+&lt;p&gt;There are other benefits to becoming a generalist, or at least in parts, which is being able to build the things you need/want whenever you want. Hey I have this side project, I’m awesome at HTML, CSS and JS, but I don’t have a back-end to store all the database interactions, well there is a great opportunity to learn a back-end language such as Ruby, Python, PHP, whatever server side language floats your boat.
+Now you will get to play around with a new language (always helpful for your learning and may change how you develop in your current stack), you get to complete your side project on your own and see it come to life.&lt;/p&gt;
+
+&lt;p&gt;What I am trying to say is, experiment, give in to your inner generalist and start hacking away, getting out of your comfort zone and push yourself.&lt;/p&gt;
+
+&lt;p&gt;Be a generalist, its fun and always exciting.&lt;/p&gt;
+
+&lt;p&gt;Side Note:
+There are many full time generalists out there, such as &lt;a href=&quot;http://drewwilson.com/&quot;&gt;Drew Wilson&lt;/a&gt;, he is someone I look up to as he always tackles something new, whether it be design, development (front-end and back-end), iOS, whatever he needs to see is idea come to life. &lt;a href=&quot;http://drewwilson.com/&quot;&gt;Check Drew and his many projects out&lt;/a&gt;, there is no way you cannot be inspired.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jan 2015 21:14:33 +1100</pubDate>
+        <link>/2015/01/03/being-a-generalist-is-important.html</link>
+        <guid isPermaLink="true">/2015/01/03/being-a-generalist-is-important.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2015 Goals</title>
+        <description>&lt;p&gt;2015 is fast approaching, with only a few days left before another amazing year starts.&lt;/p&gt;
+
+&lt;p&gt;I have a few goals for 2015, so I thought why not publish them. I can then reflect on those goals at the end of the year and see what has changed and what stayed true (if any).&lt;/p&gt;
+
+&lt;p&gt;Currently I have a handful of goals, these being:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Have an automated deployment strategy/system&lt;/li&gt;
+  &lt;li&gt;Move to a multi front-end API back-end workflow&lt;/li&gt;
+  &lt;li&gt;Implement docker (at least in development)&lt;/li&gt;
+  &lt;li&gt;Push my side projects and make them profitable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;automated-deployment-strategysystem&quot;&gt;Automated Deployment Strategy/System&lt;/h2&gt;
+&lt;p&gt;Currently, setting up a new server or updating an existing one with security releases, while not hard, is quite time consuming.
+One server here, another one there, yea thats not to bad but when it jumps above 10 it really starts to eat into your day.&lt;/p&gt;
+
+&lt;p&gt;Take for example when heart bleed came out, having to patch a couple of dozen servers really wasted half a day.
+If this process was automated in some way, that would make it a lot easier.&lt;/p&gt;
+
+&lt;p&gt;After playing around with &lt;a href=&quot;https://www.chef.io/chef/&quot;&gt;Chef&lt;/a&gt; for a while, I think I am going to stick with &lt;a href=&quot;http://www.ansible.com/&quot;&gt;Ansible&lt;/a&gt;. 
+Ansible is so easy to read and even easier to learn. I am currently playing around with a Rails setup by testing it with a vagrant box, loving it.&lt;/p&gt;
+
+&lt;p&gt;This may change slightly if &lt;a href=&quot;http://docker.com/&quot;&gt;docker&lt;/a&gt; can be put into production easier than I think, but I still think docker will need some use of ansible.&lt;/p&gt;
+
+&lt;h2 id=&quot;multi-front-end-api-back-end&quot;&gt;Multi Front-end, API Back-end&lt;/h2&gt;
+&lt;p&gt;As more and more of the application I am working on are becoming quite interactive and requiring a large amount of javascript on the front-end, it only seems right to extract the front-end from the back-end and start developing API’s first then the front-end to hook into it.&lt;/p&gt;
+
+&lt;p&gt;There has been a move to breaking out parts of applications to this model recently and it just works. Lightning fast responses is another huge one, hitting a json api is so quick.
+Further to that, its easy to plug in to another front-end, whether that be a mobile app or some other device, clean and simple.&lt;/p&gt;
+
+&lt;p&gt;I really like this approach as it keeps a clean separation of code and also reduces the knowledge required for any other developers that may come on to the project. Having a purely front-end based dev come onto a project and have to learn rails or node is asking a bit much (although, I am sure they would find it fun).&lt;/p&gt;
+
+&lt;h2 id=&quot;implement-docker&quot;&gt;Implement Docker&lt;/h2&gt;
+&lt;p&gt;Docker! Docker excites me quite a lot, the speed, security and just pure awesomesauce about it. The more and more I learn about docker, the more I want to have that for everything, at least in my development environment.&lt;/p&gt;
+
+&lt;p&gt;There are times where I want to just make my machine a clean slate, not having to install tons of libraries on it just to do some dev work, then find one library version is needed for one project and a different one on another, or just clogging things up, writing crazy readmes etc. Docker solves all those problems.&lt;/p&gt;
+
+&lt;p&gt;I think docker, or if not docker, something along those lines is the future of development. Coming onto a new project, you just pull the repo, run a command and boom the full dev environment is setup and running, all isolated from the machine you are working on, no conflicts, life is grand.&lt;/p&gt;
+
+&lt;p&gt;So I would really love to have that happening in 2015, I think its just about a silver bullet when it comes to the development environment and potentially in production.&lt;/p&gt;
+
+&lt;h2 id=&quot;side-projects&quot;&gt;Side Projects&lt;/h2&gt;
+&lt;p&gt;Currently my side projects are gaining more and more interest, but I need to start pushing them more so I can get them making a profit, to grow them into something even more awesome and help other peoples lives.&lt;/p&gt;
+
+&lt;p&gt;Currently &lt;a href=&quot;https://devbase.io/&quot;&gt;devbase.io&lt;/a&gt; is my everyday companion, storing all the details I need for client websites, domains, hosting, etc, it just solves a huge problem for me storing and sharing that information with anyone else that I may have on my team.&lt;/p&gt;
+
+&lt;p&gt;One thing that devbase is lacking is a decent marketing site. At the moment it is absolutely horrid, it really does not look very nice, tells nothing about how it can help you.
+I really need to work on that straight away. I want to have a marketing site I am proud of and that represents what devbase is.&lt;/p&gt;
+
+&lt;p&gt;As for my latest side project, &lt;a href=&quot;http://emailsetupbuddy.com/&quot;&gt;Email Setup Buddy&lt;/a&gt; I would like to try and get more people using it as well as finish up some of the last guides.
+The guides are ready to be put in there, but I need to stop being lazy, get in there and smash it out. If I set aside a day, I could easily get it done.&lt;/p&gt;
+
+&lt;p&gt;It does need some work on the admin ui as well as the actual guide pages, but I won’t be touching that until I get some more feedback.&lt;/p&gt;
+
+&lt;p&gt;I also have a couple of other side projects I want to release, but I think I just need to sit back and really focus on devbase and Email Setup Buddy right now, get them to where I am fairly happy, then I can move onto those other side projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Anyway, thats my 2015 Goals, Have an automated deployment strategy/system, Move to a multi front-end API back-end workflow, Implement docker (at least in development) and Push my side projects and make them profitable.&lt;/p&gt;
+
+&lt;p&gt;Here is hoping to a fun and successful 2015.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Dec 2014 02:25:44 +1100</pubDate>
+        <link>/2014/12/29/2015-goals.html</link>
+        <guid isPermaLink="true">/2014/12/29/2015-goals.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>State of the Dev Setup: 2014</title>
+        <description>&lt;p&gt;I thought I would write a short article based on this years development environment.
+It seems that, as web developers, our stack goes through changes, sometimes very small over time, sometimes not much for a long time, then spikes of new, then back to being the same for a while again. So why not publish my current dev stack that I have been using for the year of 2014.&lt;/p&gt;
+
+&lt;p&gt;2014 has been an amazing year, working for [Copirite](http://copirite.com.au] a design, web and print company on the Gold Coast in Australia.
+My role has required me to build many web apps/website hybrids, these are sites that require a bit more than your standard WordPress/Drupal/Other Out of/Semi out of the box CMS. Rails has been the choice since I started working there for a majority of the projects, and I can’t see many if any that I would change after the projects have been completed.&lt;/p&gt;
+
+&lt;p&gt;My stack is as follows:&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Retina MPB&lt;/li&gt;
+  &lt;li&gt;Dual Monitor Setup with laptop in clamshell mode (24inch screens)&lt;/li&gt;
+  &lt;li&gt;Blue Yeti microphone (fairly recent)&lt;/li&gt;
+  &lt;li&gt;Misc Apple devices (yea its a give in, I love Apple products)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;software&quot;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vim&lt;/li&gt;
+  &lt;li&gt;Tmux&lt;/li&gt;
+  &lt;li&gt;iTerm&lt;/li&gt;
+  &lt;li&gt;Google Chrome&lt;/li&gt;
+  &lt;li&gt;Firefox&lt;/li&gt;
+  &lt;li&gt;Safari&lt;/li&gt;
+  &lt;li&gt;Paw HTTP Rest Client&lt;/li&gt;
+  &lt;li&gt;Adobe Creative Cloud&lt;/li&gt;
+  &lt;li&gt;Sketch&lt;/li&gt;
+  &lt;li&gt;Skype&lt;/li&gt;
+  &lt;li&gt;Screenhero&lt;/li&gt;
+  &lt;li&gt;Airmail&lt;/li&gt;
+  &lt;li&gt;Dropbox&lt;/li&gt;
+  &lt;li&gt;Alfred&lt;/li&gt;
+  &lt;li&gt;Dash&lt;/li&gt;
+  &lt;li&gt;Evernote&lt;/li&gt;
+  &lt;li&gt;Hazel&lt;/li&gt;
+  &lt;li&gt;Screenflow&lt;/li&gt;
+  &lt;li&gt;Monosnap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;services&quot;&gt;Services&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Codeship&lt;/li&gt;
+  &lt;li&gt;CodeClimate&lt;/li&gt;
+  &lt;li&gt;devbase.io&lt;/li&gt;
+  &lt;li&gt;Egghead.io&lt;/li&gt;
+  &lt;li&gt;Feedly&lt;/li&gt;
+  &lt;li&gt;Twitter&lt;/li&gt;
+  &lt;li&gt;Slack&lt;/li&gt;
+  &lt;li&gt;Digital Ocean&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;technologies&quot;&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ruby on Rails&lt;/li&gt;
+  &lt;li&gt;WordPress&lt;/li&gt;
+  &lt;li&gt;Drupal (small amount)&lt;/li&gt;
+  &lt;li&gt;Jekyll&lt;/li&gt;
+  &lt;li&gt;Bower&lt;/li&gt;
+  &lt;li&gt;Grunt&lt;/li&gt;
+  &lt;li&gt;Gulp&lt;/li&gt;
+  &lt;li&gt;Sass&lt;/li&gt;
+  &lt;li&gt;Ruby&lt;/li&gt;
+  &lt;li&gt;chruby&lt;/li&gt;
+  &lt;li&gt;Ruby Install&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;workflow&quot;&gt;Workflow&lt;/h2&gt;
+&lt;p&gt;Generally my workflow is with rails applications. While I started out using pow for nearly every project, I have gone back to good old rails s.&lt;/p&gt;
+
+&lt;p&gt;I have been using a terminal based workflow, using tmux sessions with Tmuxinator and vim as my editor of choice. This leaves me in the terminal most of the time (at least one monitor making up the terminal, another for web browsers etc).&lt;/p&gt;
+
+&lt;p&gt;I have used atom on the rare occassion as well (without the vim bindings), which is a nice editor, but I still feel at home in vim.&lt;/p&gt;
+
+&lt;p&gt;I have changed from using RVM as my ruby version manager/switcher, to using chruby and ruby install. I love RVM, and it solved a lot of issues, but after switching to chruby, it feels a lot lighter and a lot nicer. RVM 2 is in the works, I may look at it again, but for a simple ruby switcher, chruby covers everything I need.&lt;/p&gt;
+
+&lt;p&gt;I have been dabbling in Chef to automate some infrastructure but have found myself now really loving ansible, its just much more digestible and less of a learning curve.
+While I am not using any of them in production I will be in 2015, hopefully along with docker (at least for my local dev environments for new projects).&lt;/p&gt;
+
+&lt;p&gt;All projects are still kept in git, most being hosted on GitHub, but some through gitlab on a private server I have. Which reminds me, Digital Ocean is my current server provider of choice, they have been fantastic and have suited every project I have had to work on.&lt;/p&gt;
+
+&lt;p&gt;Anyway that is it for now, I may do a revised post of this at the end of the year / start of 2015 just incase anything changes.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Dec 2014 08:47:15 +1100</pubDate>
+        <link>/2014/12/02/state-of-the-dev-setup-2014.html</link>
+        <guid isPermaLink="true">/2014/12/02/state-of-the-dev-setup-2014.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Side Project Update - August 2014</title>
+        <description>&lt;p&gt;Hi there!&lt;/p&gt;
+
+&lt;p&gt;I have been busy launching a number of client websites and features to various web applications at my day job, as well as planning for my upcoming wedding, so working on my side projects has taken a little step back lately.
+But I still have had some time to work on &lt;a href=&quot;https://devbase.io&quot;&gt;devbase.io&lt;/a&gt; as well as some new projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;devbaseio&quot;&gt;Devbase.io&lt;/h2&gt;
+&lt;p&gt;The application itself has become much more solid now in terms of usability. I am quite happy with where the app interface is at mostly. The clients section still requires a rework to use the new card style that is available in the other sections.&lt;/p&gt;
+
+&lt;p&gt;The one big thing that is lacking is the marketing site which in all honestly looks terrible and does not get the message across as to what devbase.io does. In light of this I have quickly mocked up a rough new marketing site design in &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt; which I will start working on hopefully this month, otherwise next month.
+Here is a screenshot of the rough design for the marketing homepage:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/images/2014/Aug/devbase-marketing.jpg&quot; alt=&quot;devbase.io marketing rough&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, it still needs work.&lt;/p&gt;
+
+&lt;h2 id=&quot;emailsetupbuddy&quot;&gt;EmailSetupBuddy&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://emailsetupbuddy.com&quot;&gt;EmailSetupBuddy&lt;/a&gt; recieved a rewrite. While I had the rough bones of the app working I decided I wanted to start it from scratch, so I did, and gave myself a month to do so. I am about a week over in my estimated of where I wanted it to be but it is there.
+I haven’t spent a huge amount of time on it but it has come together quite nicely.&lt;/p&gt;
+
+&lt;p&gt;The three things I am focusong on right now with it is:
+- Completing the marketing copy and information
+- Finishing up the account/user management
+- Creating the guide copy.&lt;/p&gt;
+
+&lt;p&gt;Below is the current marketing site which is implemented in the application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/images/2014/Aug/emailsetupbuddy-homepage.jpg&quot; alt=&quot;emailsetupbuddy marketing homepage&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;another-2-projects&quot;&gt;Another 2 projects…&lt;/h2&gt;
+&lt;p&gt;I have another 2 projects on the boil as well, one which is about 90% ready to go as well as another one I just thought up the other day. Not sure if I will monetize any of those, but will be fun just to ship them. More information to come.&lt;/p&gt;
+
+&lt;h2 id=&quot;wrapup&quot;&gt;Wrapup&lt;/h2&gt;
+&lt;p&gt;That is it for now, so basically my focus is on &lt;a href=&quot;http://emailsetupbuddy.com&quot;&gt;EmailSetupBuddy&lt;/a&gt; right now and then I will move my focus back onto &lt;a href=&quot;https://devbase.io&quot;&gt;devbase.io&lt;/a&gt; for a little while, getting that all ready for a big push in terms of marketing it.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Aug 2014 22:34:22 +1000</pubDate>
+        <link>/2014/08/06/side-project-update-august-2014.html</link>
+        <guid isPermaLink="true">/2014/08/06/side-project-update-august-2014.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Updating Rails Quicktip</title>
+        <description>&lt;p&gt;Updating a rails version can be quite trivial at times, but sometimes there are some other files that you need to update, they can be anywhere in rails, or even new files or gems.&lt;/p&gt;
+
+&lt;p&gt;Using &lt;a href=&quot;http://railsdiff.org&quot;&gt;railsdiff.org&lt;/a&gt; really takes the pain away from running into problems if you missed something as well as making it dead simple and gives you a piece of mind.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/zoDu-gkFkxE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 08 May 2014 22:34:03 +1000</pubDate>
+        <link>/2014/05/08/updating-rails-quicktip.html</link>
+        <guid isPermaLink="true">/2014/05/08/updating-rails-quicktip.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>A New Development Beginning</title>
+        <description>&lt;p&gt;I have sat on the fence for quite some time regarding JS MVC, but recently I have been looking to get into it more and I thought, why not focus on &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt;, it looks pretty cool and tickled my fancy.
+Then during my day job, &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt; was the choice. While I was still on the fence about &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt;r, it kept making sense to me and after getting a run through &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt;, it clicked with me and has become my choice.&lt;/p&gt;
+
+&lt;p&gt;This has really given me a lot of drive for learning &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angular&lt;/a&gt;. I have believed for a couple of years now that having a light front-end that  communicates with a back-end API of some sort, whether that back-end API be running &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Rails&lt;/a&gt;, &lt;a href=&quot;http://nodejs.org/&quot;&gt;Nodejs&lt;/a&gt;, &lt;a href=&quot;http://laravel.com/&quot;&gt;Laravel&lt;/a&gt; or whatever serverside framework you prefer. It makes complete sense as you have this very flexible model to work with. Need a native app, no worries, want to change your front-end easily, no worries, whatever it may be, having this separation allows for a great deal of flexibility which is nice.&lt;/p&gt;
+
+&lt;p&gt;So my journey has already begun, watching plenty of videos, soaking them in like a sponge. Now to get my hands dirty.&lt;/p&gt;
+
+&lt;p&gt;I do have some thinking/toying to do with changing my workflow a bit, &lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt; has been playing a large part, but I think using &lt;a href=&quot;http://yeoman.io/&quot;&gt;Yeoman&lt;/a&gt; will be the way to go from here on. It brings some great tools together, &lt;a href=&quot;http://bower.io/&quot;&gt;Bower&lt;/a&gt; and &lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt; for example.&lt;/p&gt;
+
+&lt;p&gt;Time to get cracking!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Jan 2014 06:49:25 +1100</pubDate>
+        <link>/2014/01/30/a-new-development-beginning.html</link>
+        <guid isPermaLink="true">/2014/01/30/a-new-development-beginning.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2014 - the year that could be</title>
+        <description>&lt;p&gt;It has been a very hot start to 2014, with absolute scorchers happening here on the Gold Coast. I cannot stand the heat, its always easy to get out of the cold, but always so difficult to get out of the heat.
+This has made it hard for me to work on some projects over the Chritmas break. So I have been doing a bit more gaming instead.&lt;/p&gt;
+
+&lt;p&gt;This year will hopefully be a big one like last year.&lt;/p&gt;
+
+&lt;h2 id=&quot;projects-to-launch&quot;&gt;Projects to launch&lt;/h2&gt;
+&lt;p&gt;I have a few projects I want to launch this year. 
+In the first quarter of this year I have &lt;a href=&quot;http://devbase.io&quot;&gt;devbase.io&lt;/a&gt; and then another project that I cannot devulge any information about yet, but it is coming along really well.&lt;/p&gt;
+
+&lt;p&gt;The final project is &lt;a href=&quot;https://twitter.com/emailsetupbuddy&quot;&gt;Email Setup Buddy&lt;/a&gt; which I hope to launch in the first half of this year. This all depends on how quick I get devbase.io ready for launch into open beta.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-to-achieve&quot;&gt;Goals to achieve&lt;/h2&gt;
+&lt;p&gt;This year I really want to achieve a few goals, these being:
+- Launch devbase.io&lt;br /&gt;
+- Launch Email Setup Buddy&lt;br /&gt;
+- Launch the secret project I discussed above&lt;br /&gt;
+- Spend more time getting fit (this has really dropped off since I have barely been bodyboarding)&lt;br /&gt;
+- Get back into the water and bodyboard some more&lt;br /&gt;
+- Spend less time with technology, which also means I need to be more efficient&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-married&quot;&gt;Getting married!&lt;/h2&gt;
+&lt;p&gt;In September I will be getting married to my amazing fiance Courtney.  The wedding is coming around really quick and it is a bit nerve racking at times. A lot for us to get sorted, whih aren’t really hard, its just that there are a lot of little things on the list. That list seems to keep growing when we think of more things.&lt;/p&gt;
+
+&lt;p&gt;I am looking forward to 2014 kicking off to be a great year and with only 2 days left of my holidays before heading back to work, it is time to get out of holiday mode and back into battle stations.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jan 2014 22:07:51 +1100</pubDate>
+        <link>/2014/01/03/2014-the-year-that-could-be.html</link>
+        <guid isPermaLink="true">/2014/01/03/2014-the-year-that-could-be.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2013 - the year that was</title>
+        <description>&lt;h2 id=&quot;career-moves&quot;&gt;Career Moves&lt;/h2&gt;
+&lt;p&gt;It was a big decision for me but at the middle of the year I decided to make a career change from being a full time PHP developer, to a full time ruby developer. 
+Building things with ruby was something I felt I was naturally moving to and I just loved the language much more than PHP so it was only right. &lt;/p&gt;
+
+&lt;p&gt;6 Months later since moving from PHP to ruby full time, I can say I do not regret the decision. I have accomplished a great deal with ruby over the past 6 months, all of which I am very proud of and a bit surprised that I was able to accomplish it. Those achievements were not small and were gratifying.&lt;/p&gt;
+
+&lt;p&gt;A couple of the big achievements were:
+- Migrating an internal app from MYOB to Xero
+- Building a quoting system&lt;/p&gt;
+
+&lt;h2 id=&quot;new-languages&quot;&gt;New Languages&lt;/h2&gt;
+&lt;p&gt;So I learnt ruby, although I still personally feel that I am at a level inbetween beginner and intermediate. I just need to get a grasp on more of the handy methods that ruby provides in the standard library for me to feel like I have achieved and intermediate level of ruby knowledge.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-workflowtools&quot;&gt;New Workflow/Tools&lt;/h2&gt;
+&lt;p&gt;Boy has my workflow and toolset changed, in the past 6 months I have switched to vim full time and this was massive for me. It took a few weeks or so for me to get back to the speed that I was at and now I feel just as fast, if not faster, using vim than my old trusty Sublime Text. 
+I do once in a while crack open Sublime Text for some odd things here and there but there are always a lot of cobwebs on it.&lt;/p&gt;
+
+&lt;p&gt;My workflow has also incorporated tmux into every project, along with  tmuxinator. If you do not know what tmux is, check it out now! BTW these are all terminal workflows, so no gui for you here.
+Working in the terminal is soo much quicker.&lt;/p&gt;
+
+&lt;p&gt;Grunt! Wow, okay so I am getting onto grunt a little bit late in the game but am absolutely loving it, along with bower, a package manager. These are AMAZING tools to have (command line based again) that replace just about all of my gui tools. They are quick, use hardly any memory and I can run them all through my terminal.&lt;/p&gt;
+
+&lt;p&gt;Yea so you probably can see whats going on here, I have moved to a nearly complete terminal based workflow and toolset. This has made me much more efficient, it really is something that I wish a lot more web developers got into. There are some pain points in getting started but it is all about just slowely moving little bits of your workflow to the terminal. In next to no time you will be surprised how little is left outside of your workflow in the terminal. Get cracking people!&lt;/p&gt;
+
+&lt;h2 id=&quot;business-changes&quot;&gt;Business changes&lt;/h2&gt;
+&lt;p&gt;I decided to put my freelance business aside and work on some personal projects. This was sort of hard to do but at the same time it was necessary. I was starting to feel burnt out and this was not fair to my clients and myself. 
+I sitll maintain the services my clients use but have just stopping taking in any work, although I have taken on a few freebie jobs to help out some community organisations.&lt;/p&gt;
+
+&lt;h2 id=&quot;personal-projects&quot;&gt;Personal Projects&lt;/h2&gt;
+&lt;p&gt;So I finally got to work on a couple of personal projects. &lt;a href=&quot;http://devbase.io&quot;&gt;Devbase.io&lt;/a&gt; and recently &lt;a href=&quot;https://twitter.com/emailsetupbuddy&quot;&gt;Email Setup Buddy&lt;/a&gt; which I am quite excited about. I have gone quite over time regarding getting devbase.io to open beta but it should be launching within the next 6 weeks. &lt;/p&gt;
+
+&lt;p&gt;There is one more project which is upcoming and looking to launch in the first quarter of this year that I am partnering in with a friend of mine which is really exciting and will challenge me quite a bit. So far it is coming along really well and is looking sweet!&lt;/p&gt;
+
+&lt;p&gt;Anyway that is it really, I may add some updates to this post here and there. What a great year 2013 was, lets hope I can top it in 2014!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jan 2014 21:51:48 +1100</pubDate>
+        <link>/2014/01/03/2013-the-year-that-was.html</link>
+        <guid isPermaLink="true">/2014/01/03/2013-the-year-that-was.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
