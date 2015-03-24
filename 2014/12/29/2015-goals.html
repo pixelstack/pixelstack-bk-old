@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The Pixelstack Blog">
+    <title>2015 Goals</title>
+    <link rel="canonical" href="/2014/12/29/2015-goals.html">
+    <link rel="stylesheet" href="/assets/application.css?cb=a46d7f79a1d818675ec0b6dce36670ac">
+  </head>
+  <body>
+
+  <header class="header">
+  <div class="container">
+    <nav class="nav">
+      <ul class="nav-brand"><a href="/"><img src="http://s3-ap-southeast-2.amazonaws.com/pixelstack-jekyll/images/layout/logo.png" alt="pixelstack" height="50"/></a></ul>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="posts.html">Blog</a></li>
+        <li><a href="/feed.xml">Feed</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+  <main>
+    <div class="container">
+      <div class="page-title">
+        <h1>2015 Goals</h1>
+      </div>
+      <p>2015 is fast approaching, with only a few days left before another amazing year starts.</p>
+
+<p>I have a few goals for 2015, so I thought why not publish them. I can then reflect on those goals at the end of the year and see what has changed and what stayed true (if any).</p>
+
+<p>Currently I have a handful of goals, these being:</p>
+
+<ul>
+  <li>Have an automated deployment strategy/system</li>
+  <li>Move to a multi front-end API back-end workflow</li>
+  <li>Implement docker (at least in development)</li>
+  <li>Push my side projects and make them profitable</li>
+</ul>
+
+<h2 id="automated-deployment-strategysystem">Automated Deployment Strategy/System</h2>
+<p>Currently, setting up a new server or updating an existing one with security releases, while not hard, is quite time consuming.
+One server here, another one there, yea thats not to bad but when it jumps above 10 it really starts to eat into your day.</p>
+
+<p>Take for example when heart bleed came out, having to patch a couple of dozen servers really wasted half a day.
+If this process was automated in some way, that would make it a lot easier.</p>
+
+<p>After playing around with <a href="https://www.chef.io/chef/">Chef</a> for a while, I think I am going to stick with <a href="http://www.ansible.com/">Ansible</a>. 
+Ansible is so easy to read and even easier to learn. I am currently playing around with a Rails setup by testing it with a vagrant box, loving it.</p>
+
+<p>This may change slightly if <a href="http://docker.com/">docker</a> can be put into production easier than I think, but I still think docker will need some use of ansible.</p>
+
+<h2 id="multi-front-end-api-back-end">Multi Front-end, API Back-end</h2>
+<p>As more and more of the application I am working on are becoming quite interactive and requiring a large amount of javascript on the front-end, it only seems right to extract the front-end from the back-end and start developing API’s first then the front-end to hook into it.</p>
+
+<p>There has been a move to breaking out parts of applications to this model recently and it just works. Lightning fast responses is another huge one, hitting a json api is so quick.
+Further to that, its easy to plug in to another front-end, whether that be a mobile app or some other device, clean and simple.</p>
+
+<p>I really like this approach as it keeps a clean separation of code and also reduces the knowledge required for any other developers that may come on to the project. Having a purely front-end based dev come onto a project and have to learn rails or node is asking a bit much (although, I am sure they would find it fun).</p>
+
+<h2 id="implement-docker">Implement Docker</h2>
+<p>Docker! Docker excites me quite a lot, the speed, security and just pure awesomesauce about it. The more and more I learn about docker, the more I want to have that for everything, at least in my development environment.</p>
+
+<p>There are times where I want to just make my machine a clean slate, not having to install tons of libraries on it just to do some dev work, then find one library version is needed for one project and a different one on another, or just clogging things up, writing crazy readmes etc. Docker solves all those problems.</p>
+
+<p>I think docker, or if not docker, something along those lines is the future of development. Coming onto a new project, you just pull the repo, run a command and boom the full dev environment is setup and running, all isolated from the machine you are working on, no conflicts, life is grand.</p>
+
+<p>So I would really love to have that happening in 2015, I think its just about a silver bullet when it comes to the development environment and potentially in production.</p>
+
+<h2 id="side-projects">Side Projects</h2>
+<p>Currently my side projects are gaining more and more interest, but I need to start pushing them more so I can get them making a profit, to grow them into something even more awesome and help other peoples lives.</p>
+
+<p>Currently <a href="https://devbase.io/">devbase.io</a> is my everyday companion, storing all the details I need for client websites, domains, hosting, etc, it just solves a huge problem for me storing and sharing that information with anyone else that I may have on my team.</p>
+
+<p>One thing that devbase is lacking is a decent marketing site. At the moment it is absolutely horrid, it really does not look very nice, tells nothing about how it can help you.
+I really need to work on that straight away. I want to have a marketing site I am proud of and that represents what devbase is.</p>
+
+<p>As for my latest side project, <a href="http://emailsetupbuddy.com/">Email Setup Buddy</a> I would like to try and get more people using it as well as finish up some of the last guides.
+The guides are ready to be put in there, but I need to stop being lazy, get in there and smash it out. If I set aside a day, I could easily get it done.</p>
+
+<p>It does need some work on the admin ui as well as the actual guide pages, but I won’t be touching that until I get some more feedback.</p>
+
+<p>I also have a couple of other side projects I want to release, but I think I just need to sit back and really focus on devbase and Email Setup Buddy right now, get them to where I am fairly happy, then I can move onto those other side projects.</p>
+
+<h2 id="summary">Summary</h2>
+<p>Anyway, thats my 2015 Goals, Have an automated deployment strategy/system, Move to a multi front-end API back-end workflow, Implement docker (at least in development) and Push my side projects and make them profitable.</p>
+
+<p>Here is hoping to a fun and successful 2015.</p>
+
+    </div>
+  </main>
+    <footer class="footer">
+  <div class="container">Copyright &copy; 2015 Pixelstack - <a href="https://twitter.com/pixelstackcom">@pixelstackcom</a></div>
+</footer>
+
+    <script type="text/javascript" src="/assets/application.js?cb=1d0a6f4b71234d1a3fbaaa58636d8fc6"></script>
+  </body>
+</html>
+
