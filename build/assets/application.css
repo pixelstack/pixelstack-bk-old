@@ -581,6 +581,11 @@ h1 {
 h2 {
   font-size: 20px; }
 
+blockquote {
+  font-style: italic; }
+  blockquote small {
+    font-style: normal; }
+
 .container {
   max-width: 68em;
   margin-left: auto;
@@ -659,7 +664,7 @@ h2 {
       text-decoration: none; }
 
 .page-title {
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   margin-bottom: 2em;
   padding: 3em 0;
   text-align: center; }
@@ -740,4 +745,69 @@ h2 {
       width: 66.66667%; } }
   @media screen and (min-width: 40em) {
     .grid-items-lines .grid-item-big p {
-      max-width: 60%; } }
+      max-width: 100%; } }
+
+.employment__item {
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 20px; }
+  .employment__item:last-child {
+    margin-bottom: 0; }
+  .employment__item h2, .employment__item h3 {
+    color: #333; }
+  .employment__item p, .employment__item li, .employment__item a,
+  .employment__item blockquote {
+    color: rgba(51, 51, 51, 0.6); }
+  .employment__item .employment__item-header {
+    color: rgba(51, 51, 51, 0.4); }
+
+.employment__item-header {
+  margin-bottom: 20px; }
+  .employment__item-header h2 {
+    margin-bottom: 5px;
+    text-align: center; }
+    @media screen and (min-width: 400px) {
+      .employment__item-header h2 {
+        text-align: left; } }
+    .employment__item-header h2 small {
+      color: rgba(51, 51, 51, 0.6);
+      display: block; }
+      @media screen and (min-width: 400px) {
+        .employment__item-header h2 small {
+          display: inline; } }
+
+.employment__item-content ul {
+  padding-left: 30px; }
+.employment__item-content li {
+  list-style-type: disc; }
+
+.employment__item-content-stats {
+  display: block; }
+  .employment__item-content-stats:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+.employment__item-content-tech,
+.employment__item-content-highlights {
+  margin-top: 20px; }
+
+.employment__item-content-tech,
+.employment__item-content-highlights {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 100%; }
+  .employment__item-content-tech:last-child,
+  .employment__item-content-highlights:last-child {
+    margin-right: 0; }
+  @media screen and (min-width: 400px) {
+    .employment__item-content-tech,
+    .employment__item-content-highlights {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 48.82117%; }
+      .employment__item-content-tech:last-child,
+      .employment__item-content-highlights:last-child {
+        margin-right: 0; } }
