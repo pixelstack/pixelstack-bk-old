@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The Pixelstack Blog">
+    <title>Rails Reseed Gem</title>
+    <link rel="canonical" href="/2015/06/11/rails-reseed-gem.html">
+    <link rel="stylesheet" href="/assets/application.css?cb=2167266bfe7846324134f630101569d2">
+  </head>
+  <body>
+
+  <header class="header">
+  <div class="container">
+    <nav class="nav">
+      <ul class="nav-brand"><a href="/"><img src="http://s3-ap-southeast-2.amazonaws.com/pixelstack-jekyll/images/layout/logo.png" alt="pixelstack" height="50"/></a></ul>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="posts.html">Blog</a></li>
+        <li><a href="/feed.xml">Feed</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+  <main>
+    <div class="container">
+      <div class="page-title">
+        <h1>Rails Reseed Gem</h1>
+      </div>
+      <p>Recently I read an <a href="http://nithinbekal.com/posts/rake-db-reseed/">article by Nithin Bekal</a> describing a nice rake task to setup which will allow you to test your seeds file and also give your projects a nice fresh start or clean point.
+I found this very useful and thought, I don’t really want to copy this code into every project, why not turn it into a gem. So I did.</p>
+
+<p>And thus the Rails Reseed gem was born.
+Simply add it to your gemfile under the development group and you will now have access to a new rake command <code>rake db:reseed</code> which will drop the database, create a new database, run your migrations and run your seeds file.</p>
+
+<p>It is very simple but extremely useful. You can check it out on <a href="https://rubygems.org/gems/rails_reseed">rubygems</a> or on <a href="https://github.com/pixelstack/reseed">github</a>.
+Feel free to create an issue and request anything, suggestions or even make a PR with anything helpful.</p>
+
+<p>Listen to the coder catchup podcast to get an early overview of the gem.</p>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless="" src="https://simplecast.fm/e/12691?style=light" width="100%"></iframe>
+
+    </div>
+  </main>
+    <footer class="footer">
+  <div class="container">Copyright &copy; 2015 Pixelstack - <a href="https://twitter.com/pixelstackcom">@pixelstackcom</a></div>
+</footer>
+
+    <script type="text/javascript" src="/assets/application.js?cb=1d0a6f4b71234d1a3fbaaa58636d8fc6"></script>
+  </body>
+</html>
+

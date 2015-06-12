@@ -5,9 +5,31 @@
     <description>The Pixelstack Blog</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 29 Mar 2015 14:34:41 +1100</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2015 14:34:41 +1100</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2015 14:26:54 +1000</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2015 14:26:54 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Rails Reseed Gem</title>
+        <description>&lt;p&gt;Recently I read an &lt;a href=&quot;http://nithinbekal.com/posts/rake-db-reseed/&quot;&gt;article by Nithin Bekal&lt;/a&gt; describing a nice rake task to setup which will allow you to test your seeds file and also give your projects a nice fresh start or clean point.
+I found this very useful and thought, I don’t really want to copy this code into every project, why not turn it into a gem. So I did.&lt;/p&gt;
+
+&lt;p&gt;And thus the Rails Reseed gem was born.
+Simply add it to your gemfile under the development group and you will now have access to a new rake command &lt;code&gt;rake db:reseed&lt;/code&gt; which will drop the database, create a new database, run your migrations and run your seeds file.&lt;/p&gt;
+
+&lt;p&gt;It is very simple but extremely useful. You can check it out on &lt;a href=&quot;https://rubygems.org/gems/rails_reseed&quot;&gt;rubygems&lt;/a&gt; or on &lt;a href=&quot;https://github.com/pixelstack/reseed&quot;&gt;github&lt;/a&gt;.
+Feel free to create an issue and request anything, suggestions or even make a PR with anything helpful.&lt;/p&gt;
+
+&lt;p&gt;Listen to the coder catchup podcast to get an early overview of the gem.&lt;/p&gt;
+
+&lt;iframe frameborder=&quot;0&quot; height=&quot;36px&quot; scrolling=&quot;no&quot; seamless=&quot;&quot; src=&quot;https://simplecast.fm/e/12691?style=light&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 22:11:16 +1000</pubDate>
+        <link>/2015/06/11/rails-reseed-gem.html</link>
+        <guid isPermaLink="true">/2015/06/11/rails-reseed-gem.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Coder Catchup Episode 1</title>
@@ -362,50 +384,6 @@ In the first quarter of this year I have &lt;a href=&quot;http://devbase.io&quot
         <pubDate>Fri, 03 Jan 2014 22:07:51 +1100</pubDate>
         <link>/2014/01/03/2014-the-year-that-could-be.html</link>
         <guid isPermaLink="true">/2014/01/03/2014-the-year-that-could-be.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>2013 - the year that was</title>
-        <description>&lt;h2 id=&quot;career-moves&quot;&gt;Career Moves&lt;/h2&gt;
-&lt;p&gt;It was a big decision for me but at the middle of the year I decided to make a career change from being a full time PHP developer, to a full time ruby developer. 
-Building things with ruby was something I felt I was naturally moving to and I just loved the language much more than PHP so it was only right. &lt;/p&gt;
-
-&lt;p&gt;6 Months later since moving from PHP to ruby full time, I can say I do not regret the decision. I have accomplished a great deal with ruby over the past 6 months, all of which I am very proud of and a bit surprised that I was able to accomplish it. Those achievements were not small and were gratifying.&lt;/p&gt;
-
-&lt;p&gt;A couple of the big achievements were:
-- Migrating an internal app from MYOB to Xero
-- Building a quoting system&lt;/p&gt;
-
-&lt;h2 id=&quot;new-languages&quot;&gt;New Languages&lt;/h2&gt;
-&lt;p&gt;So I learnt ruby, although I still personally feel that I am at a level inbetween beginner and intermediate. I just need to get a grasp on more of the handy methods that ruby provides in the standard library for me to feel like I have achieved and intermediate level of ruby knowledge.&lt;/p&gt;
-
-&lt;h2 id=&quot;new-workflowtools&quot;&gt;New Workflow/Tools&lt;/h2&gt;
-&lt;p&gt;Boy has my workflow and toolset changed, in the past 6 months I have switched to vim full time and this was massive for me. It took a few weeks or so for me to get back to the speed that I was at and now I feel just as fast, if not faster, using vim than my old trusty Sublime Text. 
-I do once in a while crack open Sublime Text for some odd things here and there but there are always a lot of cobwebs on it.&lt;/p&gt;
-
-&lt;p&gt;My workflow has also incorporated tmux into every project, along with  tmuxinator. If you do not know what tmux is, check it out now! BTW these are all terminal workflows, so no gui for you here.
-Working in the terminal is soo much quicker.&lt;/p&gt;
-
-&lt;p&gt;Grunt! Wow, okay so I am getting onto grunt a little bit late in the game but am absolutely loving it, along with bower, a package manager. These are AMAZING tools to have (command line based again) that replace just about all of my gui tools. They are quick, use hardly any memory and I can run them all through my terminal.&lt;/p&gt;
-
-&lt;p&gt;Yea so you probably can see whats going on here, I have moved to a nearly complete terminal based workflow and toolset. This has made me much more efficient, it really is something that I wish a lot more web developers got into. There are some pain points in getting started but it is all about just slowely moving little bits of your workflow to the terminal. In next to no time you will be surprised how little is left outside of your workflow in the terminal. Get cracking people!&lt;/p&gt;
-
-&lt;h2 id=&quot;business-changes&quot;&gt;Business changes&lt;/h2&gt;
-&lt;p&gt;I decided to put my freelance business aside and work on some personal projects. This was sort of hard to do but at the same time it was necessary. I was starting to feel burnt out and this was not fair to my clients and myself. 
-I sitll maintain the services my clients use but have just stopping taking in any work, although I have taken on a few freebie jobs to help out some community organisations.&lt;/p&gt;
-
-&lt;h2 id=&quot;personal-projects&quot;&gt;Personal Projects&lt;/h2&gt;
-&lt;p&gt;So I finally got to work on a couple of personal projects. &lt;a href=&quot;http://devbase.io&quot;&gt;Devbase.io&lt;/a&gt; and recently &lt;a href=&quot;https://twitter.com/emailsetupbuddy&quot;&gt;Email Setup Buddy&lt;/a&gt; which I am quite excited about. I have gone quite over time regarding getting devbase.io to open beta but it should be launching within the next 6 weeks. &lt;/p&gt;
-
-&lt;p&gt;There is one more project which is upcoming and looking to launch in the first quarter of this year that I am partnering in with a friend of mine which is really exciting and will challenge me quite a bit. So far it is coming along really well and is looking sweet!&lt;/p&gt;
-
-&lt;p&gt;Anyway that is it really, I may add some updates to this post here and there. What a great year 2013 was, lets hope I can top it in 2014!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 03 Jan 2014 21:51:48 +1100</pubDate>
-        <link>/2014/01/03/2013-the-year-that-was.html</link>
-        <guid isPermaLink="true">/2014/01/03/2013-the-year-that-was.html</guid>
         
         
       </item>
