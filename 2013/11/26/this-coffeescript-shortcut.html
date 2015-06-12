@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The Pixelstack Blog">
+    <title>This Coffeescript</title>
+    <link rel="canonical" href="/2013/11/26/this-coffeescript-shortcut.html">
+    <link rel="stylesheet" href="/assets/application.css?cb=a46d7f79a1d818675ec0b6dce36670ac">
+  </head>
+  <body>
+
+  <header class="header">
+  <div class="container">
+    <nav class="nav">
+      <ul class="nav-brand"><a href="/"><img src="http://s3-ap-southeast-2.amazonaws.com/pixelstack-jekyll/images/layout/logo.png" alt="pixelstack" height="50"/></a></ul>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="posts.html">Blog</a></li>
+        <li><a href="/feed.xml">Feed</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+  <main>
+    <div class="container">
+      <div class="page-title">
+        <h1>This Coffeescript</h1>
+      </div>
+      <p>Today I stumbled upon something that I found while working on a rails project that uses coffeescript. If you have never heard of coffeescript before, <a href="http://coffeescript.org/">check out coffeescript right now!</a>
+Coffeescript is basically a nice DSL on top of regular ol javascript which is just much nicer to write, plus theres some great little helpers in there for some common functions which can be a bit nasty, at least IMHO.</p>
+
+<p>So what the fuss is about today is this, this as in the <strong>this</strong> statement in javascript. You can accomplish the same thing by using <strong>@</strong> in coffeescript.</p>
+
+<p>Here is an example of a <a href="http://jquery.com/">jQuery</a> this object used normally and then in coffeescript.</p>
+
+<p>Jquery
+<code>$(this)</code></p>
+
+<p>Coffeescript<br />
+<code>$(@)</code></p>
+
+<p>This just looks much nicer to me, even though it was like uhh whats that at first, but the code following after made perfect sense in the scope of the action. </p>
+
+    </div>
+  </main>
+    <footer class="footer">
+  <div class="container">Copyright &copy; 2015 Pixelstack - <a href="https://twitter.com/pixelstackcom">@pixelstackcom</a></div>
+</footer>
+
+    <script type="text/javascript" src="/assets/application.js?cb=1d0a6f4b71234d1a3fbaaa58636d8fc6"></script>
+  </body>
+</html>
+
