@@ -9,7 +9,7 @@ Recently I read an [article by Nithin Bekal](http://nithinbekal.com/posts/rake-d
 I found this very useful and thought, I don't really want to copy this code into every project, why not turn it into a gem. So I did.
 
 And thus the Rails Reseed gem was born.
-Simply add it to your gemfile under the development group and you will now have access to a new rake command ```rake db:reseed``` which will drop the database, create a new database, run your migrations and run your seeds file.
+Simply add it to your gemfile under the development group and you will now have access to a new rake command `rake db:reseed` which will drop the database, create a new database, run your migrations and run your seeds file.
 
 It is very simple but extremely useful. You can check it out on [rubygems](https://rubygems.org/gems/rails_reseed) or on [github](https://github.com/pixelstack/reseed).
 Feel free to create an issue and request anything, suggestions or even make a PR with anything helpful.
